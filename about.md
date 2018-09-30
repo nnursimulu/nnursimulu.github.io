@@ -4,15 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Welcome! My name is Nirvana Nursimulu. I love [science](http://www.cs.toronto.edu/~nnursimulu/), math, music ... and 
+writing.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Here, you will find samples of my scientific and creative writing experiments 
+(which I occasionally illustrate).
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+A quick shout-out to the SickKids Training Post where many of my stories have 
+been published. Huge thank you to the editors!
