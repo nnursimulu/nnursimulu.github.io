@@ -26,7 +26,7 @@ linkedin_username: nirvana-nursimulu
 
 # Build settings
 markdown: kramdown
-theme: minimal
+theme: minima
 plugins:
   - jekyll-feed	
  
