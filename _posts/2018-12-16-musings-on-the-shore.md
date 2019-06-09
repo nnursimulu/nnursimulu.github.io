@@ -2,6 +2,7 @@
 layout: "post"
 title:  "Musings on the Shore"
 date:   2018-12-16
+custom_type: "Creative"
 ---
 
 *I often dream that my father is taking us on a tour of the island we come from.

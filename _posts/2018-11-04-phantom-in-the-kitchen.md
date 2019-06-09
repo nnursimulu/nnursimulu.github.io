@@ -2,6 +2,7 @@
 layout: "post"
 title:  "Phantom in the Kitchen"
 date:   2018-11-04
+custom_type: "Creative"
 ---
 
 *On Hallows' eve, from the ground and the heavens, come spirits that have expired 

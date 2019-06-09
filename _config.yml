@@ -23,14 +23,17 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: nnursimulu
 linkedin_username: nirvana-nursimulu
 #github_username:  jekyll
-
+show_excerpts: false
+show_indiv_excerpts: true
 # Build settings
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed	
- 
-  
+header_pages:
+  - Creative.md 
+  - Scientific.md 
+  - about.md  
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

@@ -2,6 +2,7 @@
 layout: "post"
 title:  "Starting a new blog"
 date:   2018-09-30
+custom_type: "News"
 ---
 
 How do I start my new blog?  
