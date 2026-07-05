@@ -33,6 +33,7 @@ plugins:
 header_pages:
   - Creative.md 
   - Scientific.md 
+  - Podcasts.md
   - about.md  
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

@@ -11,6 +11,10 @@ source "https://rubygems.org"
 gem "jekyll", "~> 4.1.1"
 gem "kramdown-parser-gfm"
 gem "kramdown", ">=2.3.0"
+gem "csv"
+gem "base64"
+gem "bigdecimal"
+gem "webrick"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima", "~> 2.0"

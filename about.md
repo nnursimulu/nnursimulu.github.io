@@ -8,7 +8,7 @@ Welcome! My name is Nirvana Nursimulu. I love [science](http://www.cs.toronto.ed
 writing.
 
 Here, you will find samples of my scientific and creative writing experiments 
-(which I occasionally illustrate).
+(which I occasionally illustrate), alongside podcasts to which I have contributed.
 
 A quick shout-out to the SickKids Training Post where many of my stories have 
 been published. Huge thank you to the editors!
