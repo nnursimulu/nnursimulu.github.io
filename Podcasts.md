@@ -7,6 +7,8 @@ permalink: /podcasts/
 I am proudly francophone, and have the privilege of serving as an Artificial Intelligence expert with [CHOQ FM 105.1](https://choqfm.ca/), a key community radio station for Franco-Ontarians, with an ever-evolving and dynamic voice!
 Here is a list of topics I have addressed thus far:
 
+- July 10, 2026: [Les impacts de l’IA sur l’environnement](https://choqfm.ca/episode/ia-les-impacts-de-lia-sur-lenvironnement/)
+
 - May 6, 2026: [L’IA en réclame: l’éthique du clic](https://choqfm.ca/episode/ia-lia-en-reclame-lethique-du-clic/)
 
 - November 21, 2025: [IA et cinéma, une révolution qui bouscule tout](https://choqfm.ca/episode/ia-ia-et-cinema-une-revolution-qui-bouscule-tout/)
